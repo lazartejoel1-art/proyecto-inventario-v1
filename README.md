@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-  <i>Proyecto desarrollado por Joel Franklin Lazarte Cabezas, - Parí Alave Rene  - Bernabe Jennifer  </i><br/>
+  <i>Proyecto desarrollado por Joel Franklin Lazarte Cabezas, - Parí Alave Rene  - Bernabe Jennifer - Michael Limbert Gutierrez Quispe
+- Jimena Mamani Escalante
+- Cimar Saúl Vidal López -Jennifer Jhosselin Bernabe Choque</i><br/>
   <i>Ingeniería de Sistemas – Gestión 2025</i>
 </p>
 
